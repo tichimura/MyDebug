@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyDebug</string>
+    <string name="edittext_error">エラーです</string>
+</resources>
